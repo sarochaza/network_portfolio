@@ -42,8 +42,13 @@ result : https://docs.google.com/document/d/1yC3vOCiKgDfu8HKLjTSY_cx-hvfx3gxIqJ8
 
 ---
 ### Final Project
-drive : https://drive.google.com/drive/folders/1pMTUDmsCbXrMSmXztLz72NXbjaL6pmo5   
-github : https://github.com/sarochaza/Spacing_NetworkVer1
+
+drive : https://drive.google.com/drive/folders/1pMTUDmsCbXrMSmXztLz72NXbjaL6pmo5      
+github : https://github.com/sarochaza/Spacing_NetworkVer1     
+NotebookLM : https://notebooklm.google.com/notebook/7774228d-022b-458f-aaa6-32f92f9b285c    
+video : https://youtu.be/Dx_VcjQMkpg    
+
+
 
 ## 🏆 เกียรติบัตร (Certificate)
 <img width="851" height="568" alt="certificate" src="https://github.com/user-attachments/assets/c0dd7f9a-fddf-4635-b654-de69fec8d35b" />
