@@ -22,3 +22,15 @@ This repository contains my assignments, labs, projects, and certificates relate
 | Assignment 4 (TCP-UDP)  | [TCP-UDP pdf](https://github.com/sarochaza/network_portfolio/blob/main/Personal%20Assignment/assignment%204%20.pdf) |
 
 ---
+
+### LABs(1-5)
+
+| LAB | PDF File |
+| :--- | :--- |
+| LAB1 | [LAB1_pdf](https://github.com/sarochaza/network_portfolio/blob/main/LAB/Lab%201.pdf) |
+| LAB2 | [LAB2 pdf](https://github.com/sarochaza/network_portfolio/blob/main/LAB/Lab%202.pdf) |
+| LAB3 | [LAB3 pdf](https://github.com/sarochaza/network_portfolio/blob/main/LAB/Lab%203.pdf) |
+| LAB4 | [LAB4 pdf](https://github.com/sarochaza/network_portfolio/blob/main/LAB/Lab%204.pdf) |
+| LAB5 | [LAB5 pdf](https://github.com/sarochaza/network_portfolio/blob/main/LAB/Lab%205.pdf) |
+
+---
