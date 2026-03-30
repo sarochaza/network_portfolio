@@ -16,7 +16,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 | Assignment | PDF File |
 | :--- | :--- |
-| Essay | [personal essay pdf](#) |
+| Essay | [personal essay pdf](LAB/Lab 1.pdf) |
 | Assignment 2 (Topology) | [Topology pdf](#) |
 | Assignment 3 (Not Simple)  | [Not Simple pdf](#) |
 | Assignment 4 (TCP-UDP)  | [TCP-UDP pdf](#) |
