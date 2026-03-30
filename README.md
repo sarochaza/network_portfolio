@@ -38,3 +38,6 @@ This repository contains my assignments, labs, projects, and certificates relate
 drive : https://drive.google.com/drive/folders/1pMTUDmsCbXrMSmXztLz72NXbjaL6pmo5   
 github : https://github.com/sarochaza/Spacing_NetworkVer1
 
+## 🏆 เกียรติบัตร (Certificate)
+<img width="851" height="568" alt="certificate" src="https://github.com/user-attachments/assets/c0dd7f9a-fddf-4635-b654-de69fec8d35b" />
+
