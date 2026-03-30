@@ -23,7 +23,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ---
 
-### LABs(1-5)
+### LAB(1-5)
 
 | LAB | PDF File |
 | :--- | :--- |
@@ -34,3 +34,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 | LAB5 | [LAB5 pdf](https://github.com/sarochaza/network_portfolio/blob/main/LAB/Lab%205.pdf) |
 
 ---
+### Final Project
+drive : https://drive.google.com/drive/folders/1pMTUDmsCbXrMSmXztLz72NXbjaL6pmo5   
+github : https://github.com/sarochaza/Spacing_NetworkVer1
+
